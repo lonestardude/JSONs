@@ -1,0 +1,27 @@
+[
+	{
+		"color":"Red",
+		"type":"Primary"
+	},
+	{
+		"color":"Yellow",
+		"type":"Primary"
+	},
+	{
+		"color":"Orange",
+		"type":"Secondary"
+	},
+	{
+		"color":"Blue",
+		"type":"Primary"
+	},
+	{
+		"color":"Green",
+		"type":"Secondary"
+	},
+
+	{
+		"color":"Violet",
+		"type":"Secondary"
+	}
+]
